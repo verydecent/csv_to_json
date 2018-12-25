@@ -1,0 +1,23 @@
+{
+  "name": "csv_to_json",
+  "version": "1.0.0",
+  "description": "Converting a csv file to json using javascript",
+  "main": "csvtojson_converter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/verydecent/csv_to_json.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/verydecent/csv_to_json/issues"
+  },
+  "homepage": "https://github.com/verydecent/csv_to_json#readme",
+  "dependencies": {
+    "csvtojson": "2.0.8"
+  }
+}
